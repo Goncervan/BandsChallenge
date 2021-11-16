@@ -7,7 +7,7 @@
     <li>  Then run npm start and enjoy! </li>
   </ol>
 !important
-<h3>there is an error in the users that I could not fix. you can only create one user at a time. once you create a new one, the previous one is deleted</h3>
+<h3>there is an error in the users that I could not fix. you can only create one user at a time. once you create a new one or logout, the previous one is deleted</h3>
 
 I hope you like it! 
 It was a very cool challenge to work on. I really enjoyed it.
